@@ -1,0 +1,8 @@
+Exercice 1:
+1.Vrai
+2.Faux
+
+Exercice 2:
+1.Non, "mkdir" n'est pas une commande Git. "mkdir" est une commande système qui permet de créer un nouveau répertoire (ou dossier) dans le système de fichiers.
+2.git rebase aplatit l'historique et supprime les entrées indésirables. Mais git merge ne modifie que la branche cible et crée un commit, en préservant l'historique de la branche source.
+3.git fetch permet de récupérer les modifications les plus récentes à partir du dépôt distant, sans fusionner ces modifications avec votre copie locale du code.
